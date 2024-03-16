@@ -16,5 +16,7 @@ The main task of this project was to predict or re-build CHL-a from satellite da
 # Quick result
 UNet is better to predict a correct CHL-a as it can learn its details or some Physics phenomena of the CHL-a. CNN was only able to learn roughly the shape of the CHL-a, thus this model is a simple method to get a rough idea of the CHL-a.
 
+To get an idea of the data used, check `Read_me.txt` file.
+
 # More detailled information
 The report is available only by contacting me. 
