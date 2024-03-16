@@ -27,6 +27,3 @@ Dyn    ;mlost   ; 0   ;
        ;wmb     ; 9   ;
 Chl    ;chl     ; 0   ;
 
-
-
-Path of associated netcdf : /data/home/lollier/emergence/data/
