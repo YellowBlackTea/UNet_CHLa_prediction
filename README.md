@@ -11,7 +11,7 @@ Obtaining CHL-a data could be achieved through two methods:
     - Pros: Rapid data acquisition without the need for physical presence at each CHL-a site
     - Cons: Lack of precision and occasional inconsistency
  
-The primary objective of this project was to predict or reconstruct CHL-a levels from satellite data, using physics data such as temperature and ocean speed, rather than relying solely on satellite-derived CHL-a data. Two neural network architectures were employed: a CNN and an UNet.
+The primary objective of this project was to predict or reconstruct CHL-a levels from satellite data, using physics data such as temperature and ocean speed, rather than relying solely on satellite-derived CHL-a data. Two neural network architectures were employed: a CNN and a UNet.
 
 # Quick Results
 UNet outperforms CNN in predicting accurate CHL-a levels, as it can capture finer details and certain physical phenomena associated with CHL-a. CNN, on the other hand, could only roughly approximate the shape of CHL-a, making it a simpler method for obtaining a general CHL-a estimate.
